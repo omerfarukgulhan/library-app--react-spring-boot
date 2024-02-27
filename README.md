@@ -41,7 +41,7 @@ The application is responsive and works well on both desktop and mobile devices.
 ### Download
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/library-app.git
+   git clone https://github.com/omerfarukgulhan/library-management-app--react-spring-boot.git
    ```
 
 ### Start the Java Spring Server
